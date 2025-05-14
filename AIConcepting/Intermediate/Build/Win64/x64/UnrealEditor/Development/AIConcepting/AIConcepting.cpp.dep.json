@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal\\aiconcpeting\\aiconcepting\\aiconcepting\\source\\aiconcepting\\aiconcepting.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal\\aiconcpeting\\aiconcepting\\aiconcepting\\intermediate\\build\\win64\\x64\\aiconceptingeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal\\aiconcpeting\\aiconcepting\\aiconcepting\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aiconcepting\\definitions.aiconcepting.h",
+            "c:\\unreal\\aiconcpeting\\aiconcepting\\aiconcepting\\source\\aiconcepting\\aiconcepting.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

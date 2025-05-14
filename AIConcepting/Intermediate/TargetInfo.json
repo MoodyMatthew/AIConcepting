@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AIConcepting",
+			"Path": "..\\Source\\AIConcepting.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AIConceptingEditor",
+			"Path": "..\\Source\\AIConceptingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

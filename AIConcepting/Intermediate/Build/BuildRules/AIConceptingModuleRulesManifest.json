@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal\\AIConcpeting\\AIConcepting\\AIConcepting\\Source\\AIConcepting\\AIConcepting.Build.cs",
+		"C:\\Unreal\\AIConcpeting\\AIConcepting\\AIConcepting\\Source\\AIConcepting.Target.cs",
+		"C:\\Unreal\\AIConcpeting\\AIConcepting\\AIConcepting\\Source\\AIConceptingEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
